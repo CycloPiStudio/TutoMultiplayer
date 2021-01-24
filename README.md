@@ -12,6 +12,7 @@ https://cyclopistudio.github.io/CyloPi-Studio-Web/desarrollo20M71/landing/cyclo-
   - Incluir videos
 - Incluir en la página  / Include on page
   - El desarrollo de arquitectura de redes es un tema complejo, por lo que entendemos que es un desafío adecuado / Network architecture development is a complex topic, so we understand that it is an appropriate challenge
+  - Topics that will be seen in the tutorial: Connecting a client and a server, scalable network architecture and secure handling of passwords and other private data.
   
 #### Consecuiones / Achievements:
 - Dcumentation / Documentation
