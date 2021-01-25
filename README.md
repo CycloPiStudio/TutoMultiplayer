@@ -1,4 +1,4 @@
-# Tutorial Multiplyer ![Godot 3.2](https://img.shields.io/badge/godot-v3.2-%23478cbf)
+# Tutorial Multiplayer ![Godot 3.2](https://img.shields.io/badge/godot-v3.2-%23478cbf)
 
 Tutorial
 https://godotforums.org/discussion/24226/ultimate-multiplayer-dedicated-server-tutorial-series
