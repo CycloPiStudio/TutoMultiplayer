@@ -13,6 +13,7 @@ https://cyclopistudio.github.io/CyloPi-Studio-Web/desarrollo20M71/landing/cyclo-
 - Incluir en la página  / Include on page
   - El desarrollo de arquitectura de redes es un tema complejo, por lo que entendemos que es un desafío adecuado / Network architecture development is a complex topic, so we understand that it is an appropriate challenge.
   - Temas que se verán el tutorial: Conectar un cliente y un servidor, arquitectura de red escalable y manejo seguro de contraseñas y otros datos privados / Topics that will be seen in the tutorial: Connecting a client and a server, scalable network architecture and secure handling of passwords and other private data.
+  - Incluir scrpt copiado https://github.com/CycloPiStudio/TutoMultiplayer/blob/7a1773b0d92a0b68fd1979b7892dc75ab2716a5d/2021-C106-tuto-server/Principal/servidor.gd
   
 #### Consecuiones / Achievements:
 - Dcumentation / Documentation
