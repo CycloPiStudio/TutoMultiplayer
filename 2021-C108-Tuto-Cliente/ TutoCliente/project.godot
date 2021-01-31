@@ -19,6 +19,10 @@ config/name=" TutoCliente"
 run/main_scene="res://scenes/Map.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+Server="*res://scenes/Singleton/Server.gd"
+
 [input]
 
 adelante={
