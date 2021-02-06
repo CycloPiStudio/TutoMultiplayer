@@ -21,3 +21,12 @@ margin_bottom = 14.0
 __meta__ = {
 "_edit_use_anchors_": false
 }
+
+[node name="Info2puerto" type="Label" parent="Interface/Escala-Info"]
+margin_left = 1.78381
+margin_top = 18.4327
+margin_right = 41.7838
+margin_bottom = 32.4327
+__meta__ = {
+"_edit_use_anchors_": false
+}

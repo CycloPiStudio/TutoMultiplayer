@@ -8,6 +8,7 @@ var max_players = 100
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	EmpezarServidor()
+	get_node("Interface/Escala-Info/Info2puerto").set_text("Acho Pi; puerto: " + str(puerto))
 	pass # Replace with function body.
 
 func EmpezarServidor():
