@@ -8,6 +8,11 @@ https://cyclopistudio.github.io/CyloPi-Studio-Web/desarrollo20M71/landing/cyclo-
 
 ### Colaboración de Cyclo π Studio / Cyclo π Studio collaboration.
 #### Planificación de nuevo contenido / Planning new content:
+- Avances:
+  - 
+  - La primera parte del video explica como montar un servidor y conectar un cliente. Cyclo Pi ha incluido la posibilidad de que el usuario pueda cambiar parámetros como el puesto o la IP de conexión.
+  -En la segunda parte del video explica cómo hacer una llamada, pero esa parte no la hemos implementado. Hemos tomado nota y nos aventuramos a por el siguiente video
+  - El objetivo de la página se ha desestimado. Aquí continuarán los avances.
 - Hacer página traduciendo el tutorial / Make page by translating the tutorial
   - Incluir videos
 - Incluir en la página  / Include on page
