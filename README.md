@@ -11,7 +11,7 @@ https://cyclopistudio.github.io/CyloPi-Studio-Web/desarrollo20M71/landing/cyclo-
 - Avances:
   - 
   - La primera parte del video explica como montar un servidor y conectar un cliente. Cyclo Pi ha incluido la posibilidad de que el usuario pueda cambiar parámetros como el puesto o la IP de conexión https://github.com/CycloPiStudio/TutoMultiplayer/tree/428648bdf3ba6457bee2754a17de7cb30b73dba1 
-  -En la segunda parte del video explica cómo hacer una llamada, pero esa parte no la hemos implementado. Hemos tomado nota y nos aventuramos a por el siguiente video
+  - En la segunda parte del video explica cómo hacer una llamada, pero esa parte no la hemos implementado. Hemos tomado nota y nos aventuramos a por el siguiente video
   - El objetivo de la página se ha desestimado. Aquí continuarán los avances.
 - Hacer página traduciendo el tutorial / Make page by translating the tutorial
   - Incluir videos
