@@ -17,6 +17,10 @@ https://cyclopistudio.github.io/CyloPi-Studio-Web/desarrollo20M71/landing/cyclo-
 
 ![Icono servidor Cyclo Pi](https://raw.githubusercontent.com/CycloPiStudio/TutoMultiplayer/0903e81ea96b71a1b5cd1aa7471f9e66c0b38206/2021-C106-tuto-server/icon.png)
 
+![Icono software 1 Cyclo Pi](https://github.com/CycloPiStudio/Web-2021/blob/fecb26ca541283373e448e2c62ef8f709b7bf97b/desarrollo/aux_multiplayer/icono-software.png)
+
+![Icono software 2 Cyclo Pi](https://github.com/CycloPiStudio/Web-2021/blob/fecb26ca541283373e448e2c62ef8f709b7bf97b/desarrollo/aux_multiplayer/icono-software2.png)
+
   - La primera parte del video explica como montar un servidor y conectar un cliente. Cyclo Pi ha incluido la posibilidad de que el usuario pueda cambiar parámetros como el puesto o la IP de conexión https://github.com/CycloPiStudio/TutoMultiplayer/tree/428648bdf3ba6457bee2754a17de7cb30b73dba1 
   - En la segunda parte del video explica cómo hacer una llamada, pero esa parte no la hemos implementado. Hemos tomado nota y nos aventuramos a por el siguiente video
   - El objetivo de la página se ha desestimado. Aquí continuarán los avances.
