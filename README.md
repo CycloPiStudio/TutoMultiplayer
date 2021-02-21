@@ -12,7 +12,10 @@ https://cyclopistudio.github.io/CyloPi-Studio-Web/desarrollo20M71/landing/cyclo-
   - 
   - Fecha 21-02-2021. Avance de hoy: Recopilar imágnes para hacer esquemas para explicar las mecánicas.
 
-![Icono cliente](https://raw.githubusercontent.com/CycloPiStudio/TutoMultiplayer/0903e81ea96b71a1b5cd1aa7471f9e66c0b38206/2021-C108-Tuto-Cliente/%20TutoCliente/icon.png)
+![Icono cliente Cyclo Pi](https://raw.githubusercontent.com/CycloPiStudio/TutoMultiplayer/0903e81ea96b71a1b5cd1aa7471f9e66c0b38206/2021-C108-Tuto-Cliente/%20TutoCliente/icon.png)
+
+![Icono servidor Cyclo Pi](hhttps://raw.githubusercontent.com/CycloPiStudio/TutoMultiplayer/0903e81ea96b71a1b5cd1aa7471f9e66c0b38206/2021-C106-tuto-server/icon.png)
+
 
   - La primera parte del video explica como montar un servidor y conectar un cliente. Cyclo Pi ha incluido la posibilidad de que el usuario pueda cambiar parámetros como el puesto o la IP de conexión https://github.com/CycloPiStudio/TutoMultiplayer/tree/428648bdf3ba6457bee2754a17de7cb30b73dba1 
   - En la segunda parte del video explica cómo hacer una llamada, pero esa parte no la hemos implementado. Hemos tomado nota y nos aventuramos a por el siguiente video
